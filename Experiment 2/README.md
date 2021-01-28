@@ -9,6 +9,6 @@ a)Merge sort   c)Quick sort
 3.
 
 
-###Output Obtained
+### Output Obtained
 
 ![Test Image 1](Output.png)
