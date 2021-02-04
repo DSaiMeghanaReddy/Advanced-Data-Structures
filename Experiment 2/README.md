@@ -1,4 +1,4 @@
-#   Experiment 2
+#   Experiment 2a
 ## Aim of the experiment - Write a program for implementing the following sorting methods:
 
 a)Merge sort 
