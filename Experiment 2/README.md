@@ -11,4 +11,4 @@ a)Merge sort   c)Quick sort
 
 ### Output Obtained
 
-![Test Image 1](Output.png)
+![image](https://user-images.githubusercontent.com/77834002/106880293-33b49400-6702-11eb-88d9-0559c9a599cc.png)
