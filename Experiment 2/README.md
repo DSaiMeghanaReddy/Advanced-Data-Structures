@@ -10,5 +10,6 @@ a)Merge sort   c)Quick sort
 
 
 ### Output Obtained
+![image](https://user-images.githubusercontent.com/77834002/106883104-893e7000-6705-11eb-88a0-2a0e1440adf3.png)
 
-![image](https://user-images.githubusercontent.com/77834002/106880293-33b49400-6702-11eb-88d9-0559c9a599cc.png)
+
