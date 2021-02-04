@@ -1,6 +1,6 @@
 #   Experiment 2b
 ## Aim of the experiment - Write a program for implementing the following sorting methods:
-  c)Quick sort
+  c)Heap sort
 
 ###  procedure for the experiment
 In Heap Sort, the given input array is first converted to a Complete Binary Tree. 
