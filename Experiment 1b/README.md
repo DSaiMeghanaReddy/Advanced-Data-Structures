@@ -3,7 +3,8 @@
 1b)Delete an element from Binary search tree
 
 
-###  procedure for the experiment Insertion of a key 
+###  procedure for the experiment Delete an element from Binary search tree
+
 When we delete a node, three possibilities arise. 
 1) Node to be deleted is leaf: Simply remove from the tree. 
 2) Node to be deleted has only one child: Copy the child to the node and delete the child 
