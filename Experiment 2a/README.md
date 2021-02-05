@@ -11,5 +11,5 @@ The merge(arr, l, m, r) is key process that assumes that arr[l..m] and arr[m+1..
 
 
 ### Output Obtained
-![image](https://user-images.githubusercontent.com/77834002/106883104-893e7000-6705-11eb-88a0-2a0e1440adf3.png)
+![image](https://user-images.githubusercontent.com/77834002/107001707-1f2ed500-67b0-11eb-962a-f2951cc92e45.png)
 
