@@ -5,7 +5,7 @@
 
 
 ###  procedure for the experiment 
-Insertion of element in B tree
+### Insertion of element in B tree
 If the tree is empty, allocate a root node and insert the key.
 Update the allowed number of keys in the node.
 Search the appropriate node for insertion.
@@ -15,7 +15,7 @@ Now, there are elements greater than its limit. So, split at the median.
 Push the median key upwards and make the left keys as a left child and the right keys as a right child.
 If the node is not full, follow the steps below.
 Insert the node in increasing order.
-deletion of element in B tree
+### deletion of element in B tree
 Before going through the steps below, one must know these facts about a B tree of degree m.
 A node can have a maximum of m children. 
 A node can contain a maximum of m - 1 keys. 
