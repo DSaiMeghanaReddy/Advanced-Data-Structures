@@ -21,4 +21,4 @@ Following are the operations to be performed in above mentioned 4 cases. In all 
 
 
 ### Output Obtained
-![image](https://user-images.githubusercontent.com/77834002/108041437-89732f80-7064-11eb-9384-400d5b595eb8.png)
+![image](https://user-images.githubusercontent.com/77834002/112364755-dd74d200-8cfc-11eb-9119-73080a023906.png)
