@@ -1,4 +1,4 @@
-#   Experiment 1a
+#   Experiment 7a
 ## Aim of the experiment - Write a program to perform the following operations:
 7a)Insert an element into a AVL tree
 
@@ -21,4 +21,4 @@ Following are the operations to be performed in above mentioned 4 cases. In all 
 
 
 ### Output Obtained
-![image](https://user-images.githubusercontent.com/77834002/112364755-dd74d200-8cfc-11eb-9119-73080a023906.png)
+![image](https://user-images.githubusercontent.com/77834002/112365054-35133d80-8cfd-11eb-80d6-63deece5e3ae.png)
