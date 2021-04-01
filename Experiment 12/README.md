@@ -26,5 +26,4 @@ We’ll lookup the position of last occurrence of mismatching character in patte
 
 
 ### Output Obtained
-![image](https://user-images.githubusercontent.com/77834002/112516832-b205ec00-8dbd-11eb-8a1d-f436d1d4ac9b.png)
-
+![image](https://user-images.githubusercontent.com/77834002/113288653-e113e480-930c-11eb-8e82-0127b125fcab.png)
